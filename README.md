@@ -10,4 +10,3 @@
 ### Chat/Messaging App Light and Dark Theme Final UI
 
 
-![App UI](/ui.png)
